@@ -16,15 +16,14 @@
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake">
-   </a>
+    <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake">
+  </a>
 </div>
 
 ---
 
 <div align="center">
     <h3>Languages and Tools</h3>
-
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
@@ -60,12 +59,11 @@
 
 <div align="center">
     <h3>Stats 🧮</h3>
-
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BDCoy&show_icons=true&theme=onedark)
-
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BDCoy&theme=transparent&hide_border=true&border_radius=4.3&exclude_days=Sun)](https://git.io/streak-stats)
-
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BDCoy&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api?username=BDCoy&show_icons=true&theme=onedark" alt="GitHub Stats">
+    <br />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=BDCoy&theme=transparent&hide_border=true&border_radius=4.3&exclude_days=Sun" alt="GitHub Streak">
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BDCoy&layout=donut" alt="Top Languages">
 </div>
 
 ---
