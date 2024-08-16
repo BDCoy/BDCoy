@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://res.cloudinary.com/highereducation/images/f_auto,q_auto/v1659635843/BestColleges.com/Bootcamp-Student-Learning-to-Code_301240e55a/Bootcamp-Student-Learning-to-Code_301240e55a.jpg" width="200" />
+    <img src="https://res.cloudinary.com/highereducation/images/f_auto,q_auto/v1659635843/BestColleges.com/Bootcamp-Student-Learning-to-Code_301240e55a/Bootcamp-Student-Learning-to-Code_301240e55a.jpg" width="500" />
     <h1 align="center">Hi👋🏼, I'm Brayan Coy</h1>
 </div>
 
