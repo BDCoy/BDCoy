@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 I'm currently working as a Freelancer<br>🔭 I’m currently working on Web3 Open Source Projects<br>🌱 I’m currently learning about Solidity and more!<br>💬 Ask me about new technologies<br>
+💼 I'm currently working as a Freelancer<br>🔭 I’m currently working on Startup Projects<br>🌱 I’m currently learning about Python and more!<br>💬 Ask me about new technologies<br>
 
 [![](https://visitcount.itsvg.in/api?id=BDCoy&icon=9&color=8)](https://visitcount.itsvg.in)
 
